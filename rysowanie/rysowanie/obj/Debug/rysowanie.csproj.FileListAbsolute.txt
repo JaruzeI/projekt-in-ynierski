@@ -1,0 +1,9 @@
+j:\documents\visual studio 2015\Projects\rysowanie\rysowanie\bin\Debug\rysowanie.exe.config
+j:\documents\visual studio 2015\Projects\rysowanie\rysowanie\obj\Debug\rysowanie.csprojResolveAssemblyReference.cache
+j:\documents\visual studio 2015\Projects\rysowanie\rysowanie\obj\Debug\rysowanie.Form1.resources
+j:\documents\visual studio 2015\Projects\rysowanie\rysowanie\obj\Debug\rysowanie.Properties.Resources.resources
+j:\documents\visual studio 2015\Projects\rysowanie\rysowanie\obj\Debug\rysowanie.csproj.GenerateResource.Cache
+j:\documents\visual studio 2015\Projects\rysowanie\rysowanie\bin\Debug\rysowanie.exe
+j:\documents\visual studio 2015\Projects\rysowanie\rysowanie\bin\Debug\rysowanie.pdb
+j:\documents\visual studio 2015\Projects\rysowanie\rysowanie\obj\Debug\rysowanie.exe
+j:\documents\visual studio 2015\Projects\rysowanie\rysowanie\obj\Debug\rysowanie.pdb
