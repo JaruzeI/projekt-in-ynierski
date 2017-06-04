@@ -1,0 +1,8 @@
+c:\users\dominika\documents\visual studio 2015\Projects\AdobePower\AdobePower\bin\Debug\AdobePower.exe.config
+C:\Users\Dominika\Documents\Visual Studio 2015\Projects\AdobePower\AdobePower\bin\Debug\AdobePower.exe
+C:\Users\Dominika\Documents\Visual Studio 2015\Projects\AdobePower\AdobePower\bin\Debug\AdobePower.pdb
+C:\Users\Dominika\Documents\Visual Studio 2015\Projects\AdobePower\AdobePower\obj\Debug\AdobePower.Form1.resources
+C:\Users\Dominika\Documents\Visual Studio 2015\Projects\AdobePower\AdobePower\obj\Debug\AdobePower.Properties.Resources.resources
+C:\Users\Dominika\Documents\Visual Studio 2015\Projects\AdobePower\AdobePower\obj\Debug\AdobePower.csproj.GenerateResource.Cache
+C:\Users\Dominika\Documents\Visual Studio 2015\Projects\AdobePower\AdobePower\obj\Debug\AdobePower.exe
+C:\Users\Dominika\Documents\Visual Studio 2015\Projects\AdobePower\AdobePower\obj\Debug\AdobePower.pdb

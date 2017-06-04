@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ProcessPowerPointAdobeAcrobat.Properties
+namespace AdobePower.Properties
 {
 
 

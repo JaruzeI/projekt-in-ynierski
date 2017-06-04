@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ProcessPowerPointAdobeAcrobat")]
+[assembly: AssemblyTitle("AdobePower")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ProcessPowerPointAdobeAcrobat")]
+[assembly: AssemblyProduct("AdobePower")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("de53fc9a-dfcf-42ef-95d0-3ed020348fb5")]
+[assembly: Guid("3f9c3fba-ea50-4c32-9f11-9e7ca69f93e7")]
 
 // Version information for an assembly consists of the following four values:
 //
