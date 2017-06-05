@@ -1,0 +1,14 @@
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\bin\Debug\AdobePowerPoint.exe.config
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\bin\Debug\AdobePowerPoint.exe
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\bin\Debug\AdobePowerPoint.pdb
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\AdobePowerPoint.csprojResolveAssemblyReference.cache
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\MainWindow.g.cs
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\App.g.cs
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\AdobePowerPoint_MarkupCompile.cache
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\AdobePowerPoint_MarkupCompile.lref
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\MainWindow.baml
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\AdobePowerPoint.g.resources
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\AdobePowerPoint.Properties.Resources.resources
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\AdobePowerPoint.csproj.GenerateResource.Cache
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\AdobePowerPoint.exe
+j:\documents\visual studio 2015\Projects\AdobePowerPoint\AdobePowerPoint\obj\Debug\AdobePowerPoint.pdb

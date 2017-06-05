@@ -1,0 +1,20 @@
+﻿<Window x:Name="Move" x:Class="AdobePowerPoint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdobePowerPoint"
+        mc:Ignorable="d"
+        Title="MOVE" Height="253.922" Width="224.02" Background="#FFFFF9F9" FontSize="18" Visibility="Visible" BorderBrush="#FFFFF9F9">
+    <Grid Margin="0,0,-8,-2" Background="#FF1D396A">
+        <Button x:Name="start" Content="Start" HorizontalAlignment="Left" VerticalAlignment="Top" Width="84" Margin="10,20,0,0" Height="29" Click="start_Click" FontSize="18" BorderBrush="#FF0FC2F7" Background="#FFFFF9F9" Foreground="#FF1629A6"/>
+        <Button x:Name="end" Content="End" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="117,20,0,0" Height="29" Click="end_Click" FontSize="18" Background="#FFFFF9F9" BorderBrush="#FF0FC2F7" Foreground="#FF1629A6"/>
+        <Button x:Name="previous" Content="Previous" HorizontalAlignment="Left" VerticalAlignment="Top" Width="84" Margin="10,68,0,0" Height="29" Click="previous_Click" Background="#FFFFF9F9" FontSize="18" BorderBrush="#FF0FC2F7" Foreground="#FF1629A6"/>
+        <Button x:Name="next" Content="Next" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="117,68,0,0" Height="28" Click="next_Click" Background="#FFFFF9F9" FontSize="18" BorderBrush="#FF0FC2F7" Foreground="#FF1629A6"/>
+        <Button x:Name="zIN" Content="Zoom in" HorizontalAlignment="Left" VerticalAlignment="Top" Width="84" RenderTransformOrigin="0.953,6.493" Margin="10,123,0,0" Height="29" Click="zIn_Click" Background="#FFFFF9F9" FontSize="18" BorderBrush="#FF0FC2F7" Foreground="#FF1629A6"/>
+        <Button x:Name="zOut" Content="Zoom out" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="117,122,0,0" Height="30" Click="zOut_Click" Background="#FFFFF9F9" FontSize="18" BorderBrush="#FF0FC2F7" Foreground="#FF1629A6"/>
+        <Button x:Name="first" Content="First" HorizontalAlignment="Left" VerticalAlignment="Top" Width="84" Margin="10,172,0,0" Height="30" Click="first_Click" Background="#FFFFF9F9" FontSize="18" BorderBrush="#FF0FC2F7" Foreground="#FF1629A6"/>
+        <Button x:Name="last" Content="Last" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Margin="117,172,0,0" Height="30" Click="last_Click" Background="#FFFFF9F9" FontSize="18" BorderBrush="#FF0FC2F7" Foreground="#FF1629A6"/>
+
+    </Grid>
+</Window>
